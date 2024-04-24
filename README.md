@@ -47,5 +47,5 @@ I want to pay more attention to project preparation in order to anticipate any i
 ## Author
 
 - Autor - WebisBrian (Brian TABART)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@BriTAB](https://www.frontendmentor.io/profile/BriTAB)
 
